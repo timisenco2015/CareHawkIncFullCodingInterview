@@ -72,6 +72,14 @@ This coding challenge question is divided into three parts:
     
     ||
     
+    |-sample
+    
+    || - books.csv
+    ||
+    || - books.json
+    
+    ||
+    
     || - booksRepo.js
     
     ||

@@ -17,75 +17,110 @@ This coding challenge question is divided into three parts:
   - Third Part: is the solution to question 3 and can be found in CareHawkQuest3. This coding solution is full node js application. well   
     tested application. It uses sqlite file system for databse and sequelize model. Project structure below:
     
-    ## Build Code Structure
-```bash
+    ## Description
+
+ - A restful api built with NodeJS. 
+ - End point for redSpaceFrontEnd. 
+ - Access and process data from https://swapi.co/. Access data by calling urls from swapi.co
+ - A well tested application.
+
+  ## Development server
+
+  Run `node server` for a dev server. To able to use this applications, users will have to set environment variables.The environment  
+   file is also upload under this repository on github.
+
+
+  ## Running unit tests
+
+  Run `npm test` to execute the unit tests via [Mocha](https://github.com/mochajs/mocha).
+    
+    
+  ## Build Code Structure
+  ```bash
     |-----------
     
     | - databaseConfig
+    
     |
+    
     | |
+    
     | | - database.js
+    
     | |
+    
     | - entities
+    
     ||
+    
     || - book.js
+    
     ||
+    
     || - cotainer.js
+    
     ||
+    
     | - model
+    
     ||
+    
     || - Books.js
+    
     ||
+    
     |- Repo
+    
     ||
+    
     || - booksRepo.js
+    
     ||
+    
     | - Routes
+    
     ||
+    
     || - bookRoute
+    
     ||
+    
     | - sqlDatabase
+    
     ||
+    
     || - databse.sqlite
+    
     ||
+    
     || - test
+    
     ||
+    
     || - entityTest
+    
     |||
+    
     |||- booTest.js
+    
     |||
+    
     ||| - containerTest.js
+    
     |||
+    
     || - mdoelTest
+    
     |||
+    
     ||| - booksTest.js
+    
     |||
+    
     ||-bookRoutesTest
     
     
-    # InscopixCodeChallengeFrontEnd
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 

@@ -1,0 +1,12 @@
+[
+	{"bookId":"b001", "bookAuthor":"John Bull","bookTitle":"Javascript programing"},
+	{"bookId":"b002","bookAuthor":"John Bull","bookTitle":"NodeJS programing"},
+	{"bookId":"b003","bookAuthor":"Brad Glen","bookTitle":"Angular 8 Testing"},
+	{"bookId":"b004","bookAuthor":"Brad Glen","bookTitle":"Node JS Testing"},
+	{"bookId":"b005","bookAuthor":"Bod Dad","bookTitle":"How to be sucessfull in life"},
+	{"bookId":"b006","bookAuthor":"Liber John","bookTitle":"Living your purpose on earth"},
+	{"bookId":"b007","bookAuthor":"John Ayo","bookTitle":"How I became a programmer"},
+	{"bookId":"b008","bookAuthor":"Ken Firhser","bookTitle":"Configureing Apache"},
+	{"bookId":"b009","bookAuthor":"Bod Dad","bookTitle":"Knowing Regex"},
+	{"bookId":"b010","bookAuthor":"Bod Dad","bookTitle":"Profession Java Programming"}
+]

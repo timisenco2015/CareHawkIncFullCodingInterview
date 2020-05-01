@@ -17,20 +17,19 @@ This coding challenge question is divided into three parts:
   - Third Part: is the solution to question 3 and can be found in CareHawkQuest3. This coding solution is full node js application. well   
     tested application. It uses sqlite file system for databse and sequelize model. Project structure below:
     
-    ## Description
+      ## Description
 
- - A restful api built with NodeJS. 
- - End point for redSpaceFrontEnd. 
- - Access and process data from https://swapi.co/. Access data by calling urls from swapi.co
- - A well tested application.
+    - A restful api built with NodeJS. 
+    - End point for CareHawksCodeChallenge. 
+    - Access and process data from https://swapi.co/. Access data by calling urls from swapi.co
+    - A well tested application.
 
-  ## Development server
+     ## Development server
 
-  Run `node server` for a dev server. To able to use this applications, users will have to set environment variables.The environment  
-   file is also upload under this repository on github.
+     Run `node server` for a dev server. To able to use this applications, users will have to set environment variables.The environment     file is also upload under this repository on github.
 
 
-  ## Running unit tests
+     ## Running unit tests
 
   Run `npm test` to execute the unit tests via [Mocha](https://github.com/mochajs/mocha).
     

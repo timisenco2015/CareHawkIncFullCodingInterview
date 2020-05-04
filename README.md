@@ -126,7 +126,7 @@ This coding challenge question is divided into three parts:
     
     ||-bookRoutesTest
     
-    
+    ```
 
 
 ## Further help
@@ -135,12 +135,3 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
     
     
-    
-    
-    
-    
-    
-    
-    
-    
- 

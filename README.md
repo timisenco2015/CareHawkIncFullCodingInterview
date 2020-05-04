@@ -35,6 +35,9 @@ This coding challenge question is divided into three parts:
     
     
   ## Build Code Structure
+  
+  
+    ```bash
  
     |-----------
     

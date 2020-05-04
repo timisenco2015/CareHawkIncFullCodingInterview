@@ -36,7 +36,6 @@ This coding challenge question is divided into three parts:
     
   ## Build Code Structure
   
-    ```bash
     |-----------
     
     | - databaseConfig
@@ -127,7 +126,9 @@ This coding challenge question is divided into three parts:
     
     ||-bookRoutesTest
     
-    
+
+## Further help
+To get more help, please contact     
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
     

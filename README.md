@@ -24,17 +24,18 @@ This coding challenge question is divided into three parts:
     - Access and process data from https://swapi.co/. Access data by calling urls from swapi.co
     - A well tested application.
 
-     ## Development server
+      ## Development server
 
-     Run `node server` for a dev server. To able to use this applications, users will have to set environment variables.The environment     file is also upload under this repository on github.
+        Run `node server` for a dev server. To able to use this applications, users will have to set environment variables.The        
+        environment file is also upload under this repository on github.
 
 
      ## Running unit tests
 
-  Run `npm test` to execute the unit tests via [Mocha](https://github.com/mochajs/mocha).
+      Run `npm test` to execute the unit tests via [Mocha](https://github.com/mochajs/mocha).
     
     
-  ## Build Code Structure
+    ## Build Code Structure
   
     |-----------
     
@@ -127,9 +128,9 @@ This coding challenge question is divided into three parts:
     ||-bookRoutesTest
     
 
-# API Access point
-```bash
-  A)  url: /importBooksFile
+   # API Access point
+    ```bash
+    A)  url: /importBooksFile
       input:
          @apiParamName: booksFile
         @apiParam {file} 
@@ -163,7 +164,7 @@ This coding challenge question is divided into three parts:
           "message": "Unable to populate record into the destination table"
       }
   
-  B) url:  /getAllBooks
+    B) url:  /getAllBooks
      input: 
       @apiParam none
       @apiSuccessExample {json} Success
@@ -229,9 +230,9 @@ This coding challenge question is divided into three parts:
         },
         "message": "Book list fetched Successfully"
       }
-```
-## Further help
-To get more help, please contact me at aayobami.o.idowu@gmail.com
+    ```
+   ## Further help
+    To get more help, please contact me at aayobami.o.idowu@gmail.com
 
     
     

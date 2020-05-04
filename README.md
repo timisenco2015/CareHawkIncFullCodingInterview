@@ -36,7 +36,7 @@ This coding challenge question is divided into three parts:
     
     
     ## Build Code Structure
-  
+  ```bash
     |-----------
     
     | - databaseConfig
@@ -126,9 +126,9 @@ This coding challenge question is divided into three parts:
     |||
     
     ||-bookRoutesTest
-    
+```
 
-   # API Access point
+  # API Access point
     ```bash
     A)  url: /importBooksFile
       input:

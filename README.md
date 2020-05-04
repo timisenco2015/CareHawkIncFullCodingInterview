@@ -132,7 +132,7 @@ This coding challenge question is divided into three parts:
   A)  url: /importBooksFile
       input:
          @apiParamName: booksFile
-        @apiParam {file} booksFile or multiple files with file names
+        @apiParam {file} 
       output:
         @apiSuccessExample {json} Success
         {
